@@ -12,7 +12,6 @@ React Jobly is a frontend web application built with Vite + React that mocks a j
 
 - **React**: A JavaScript library for building user interfaces.
 - **React Router DOM**: Declarative routing for React.
-- **Redux Toolkit**: A toolset for managing state in React applications.
 - **Axios**: Promise-based HTTP client for making requests to the server.
 - **@Material UI Packages**: Material-UI components for React.
 
